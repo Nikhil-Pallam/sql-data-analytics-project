@@ -1,5 +1,9 @@
 # SQL Data Analytics Project
+
+## About
  
+Exploratory Data Analysis and Advanced Analytics in SQL, from the first look at the data to a customer report and a product report. The data and every query.
+
 Exploratory SQL analysis and reporting views built on top of a sales data warehouse in SQL Server, using the `DataWarehouseAnalytics` database's gold-layer schema (`dim_customers`, `dim_products`, `fact_sales`).
  
 This project focuses on turning a clean, modeled dataset into business insights — EDA, trend analysis, ranking, segmentation, and two reusable SQL views for ongoing reporting.
